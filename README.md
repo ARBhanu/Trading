@@ -16,3 +16,7 @@ This project aims to fetch real-time trading data for cryptocurrencies and compa
 - **Frontend:** HTML, CSS, JavaScript, React.js
 - **Backend:** Node.js, Express.js
 - **Data Visualization:** Chart.js 
+
+##Getting Started
+To run this application follow these steps :
+
