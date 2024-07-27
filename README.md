@@ -17,6 +17,11 @@ This project aims to fetch real-time trading data for cryptocurrencies and compa
 - **Backend:** Node.js, Express.js
 - **Data Visualization:** Chart.js 
 
-##Getting Started
+## Getting Started
+
 To run this application follow these steps :
+- clone the repository
+- open the project in vs code
+- run the app using npm run start
+
 
