@@ -46,11 +46,6 @@ Light Mode Dark Mode -
 27. Using local storage and data-theme variable in css
 28. Updating root variables according to the theme.
 
-Watchlist- 
-29. localstorage - adding coins in an array
-30. localstorage - removing as well.
-31. useEffect -> watchlist page
-
 Other features - 
 
 32. Using RWebShare npm package.
