@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project aims to fetch real-time trading data for cryptocurrencies and compare two currencies performance with time. The application will display various metrics such as price, volume, market cap, and more, allowing users to make informed decisions. This app also show trend analysis of cryptocurrencies with graph. Using this app you can analyse of all selected cryptocurrencies and you can earn more money and minimise loss.
+This project aims to fetch real-time trading data for cryptocurrencies and compare two currencies performance with time. The application will display various metrics such as price, volume, market cap, and more, allowing users to make informed decisions. This app also show trend analysis of cryptocurrencies with help of graph. Using this app you can analyse and visualize of all selected cryptocurrencies. Main aim of this app is that traders and investors can get more profits and minimize losses regarding trading and investing.
 
 ## Features
 
