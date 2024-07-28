@@ -21,9 +21,9 @@ This project aims to fetch real-time trading data for cryptocurrencies and compa
 ## Getting Started
 
 To run this application, follow these steps :
-- Open the command
 - Setup the file and folder
-- clone the repository using **"git clone https://github.com/ARBhanu/Trading.git"**
+- Open the command prompt
+- clone the repository using **"git clone https://github.com/ARBhanu/Trading.git"** command
 - open the project in vs code
 - run the project using npm run start
 
