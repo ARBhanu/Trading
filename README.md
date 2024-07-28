@@ -12,6 +12,7 @@ This project aims to fetch real-time trading data for cryptocurrencies and compa
 - Historical data visualization for trend analysis.
 
 ## Technologies Used
+
 - **UI :** Material UI
 - **Frontend :** HTML, CSS, JavaScript, React.js
 - **Backend :** Node.js, Express.js
@@ -26,4 +27,9 @@ To run this application, follow these steps :
 - open the project in vs code
 - run the project using npm run start
 
+## Contact
+
+For any inquiries, please contact :
+Amit Kumar
+amitrajjaynagar2002@gmail.com
 
