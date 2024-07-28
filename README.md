@@ -30,6 +30,6 @@ To run this application, follow these steps :
 ## Contact
 
 For any inquiries, please contact :
-Amit Kumar
-amitrajjaynagar2002@gmail.com
+- Amit Kumar
+- amitrajjaynagar2002@gmail.com
 
