@@ -12,10 +12,10 @@ This project aims to fetch real-time trading data for cryptocurrencies and compa
 - Historical data visualization for trend analysis.
 
 ## Technologies Used
-- **UI:** Material UI
-- **Frontend:** HTML, CSS, JavaScript, React.js
-- **Backend:** Node.js, Express.js
-- **Data Visualization:** Chart.js 
+- **UI :** Material UI
+- **Frontend :** HTML, CSS, JavaScript, React.js
+- **Backend :** Node.js, Express.js
+- **Data Visualization :** Chart.js 
 
 ## Getting Started
 
