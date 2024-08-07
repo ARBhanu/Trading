@@ -22,10 +22,19 @@ This project aims to fetch real-time trading data for cryptocurrencies and compa
 
 To run this application, follow these steps :
 - Setup the file and folder
+```bash
+  cd TradeTrack
+```
 - Open the command prompt
 - clone the repository using **'git clone https://github.com/ARBhanu/Trading.git'** command
+```bash
+  git clone https://github.com/ARBhanu/Trading.git
+```
 - open the project in vs code
-- run the project using 'npm run start'
+- run the project
+```bash
+  npm run start
+```
 
 ## Contact
 
