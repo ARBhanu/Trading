@@ -22,10 +22,10 @@ This project aims to fetch real-time trading data for cryptocurrencies and compa
 
 To run this application, follow these steps :
 - Setup the file and folder
+- Open the command prompt
 ```bash
   cd TradeTrack
 ```
-- Open the command prompt
 - clone the repository
 ```bash
   git clone https://github.com/ARBhanu/Trading.git
