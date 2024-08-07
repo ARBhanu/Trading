@@ -26,7 +26,7 @@ To run this application, follow these steps :
   cd TradeTrack
 ```
 - Open the command prompt
-- clone the repository using **'git clone https://github.com/ARBhanu/Trading.git'** command
+- clone the repository
 ```bash
   git clone https://github.com/ARBhanu/Trading.git
 ```
